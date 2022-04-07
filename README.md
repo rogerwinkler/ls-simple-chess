@@ -2,6 +2,8 @@
 
 A simple chess game inspired by [Lauri Hartikka](https://www.freecodecamp.org/news/simple-chess-ai-step-by-step-1d55a9266977/).
 
+<a href="ttps://www.freecodecamp.org/news/simple-chess-ai-step-by-step-1d55a9266977/" _target="blank">other link</a>
+
 _Version 0.1.3_
 
 ## Node Version
