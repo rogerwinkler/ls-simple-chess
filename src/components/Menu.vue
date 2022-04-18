@@ -137,17 +137,18 @@
         ABOUT
       </q-item-label>
       <q-item>
-        MX Simple Chess<br />
+        LS Simple Chess<br />
         Version 1.0.0<br />
       </q-item>
       <q-item>
-        &copy; Copyright 2020 Monex AG, Liechtenstein
+        &copy; Copyright Roger Winkler Alpirsbach
       </q-item>
       <q-item>
         <a
-          href="https://www.monex.li/en/global/dsk/dsk-mobile-apps/"
+          href="https://www.logsem.com/en/privacy-policy"
           target="_blank"
-          >Privacy Policy for Mobile Apps</a
+          rel="noopener"
+          >Privacy Policy</a
         >
       </q-item>
     </q-list>

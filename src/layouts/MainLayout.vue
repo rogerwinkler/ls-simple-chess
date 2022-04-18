@@ -10,7 +10,7 @@
           height="32px"
         />
         <q-toolbar-title>
-          MX Simple Chess
+          LS Simple Chess
         </q-toolbar-title>
         <q-btn
           flat

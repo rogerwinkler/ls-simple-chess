@@ -106,8 +106,8 @@ module.exports = function(/* ctx */) {
       workboxPluginMode: "GenerateSW", // 'GenerateSW' or 'InjectManifest'
       workboxOptions: {}, // only for GenerateSW
       manifest: {
-        name: "MX Simple Chess",
-        short_name: "MX Simple Chess",
+        name: "LS Simple Chess",
+        short_name: "LS Simple Chess",
         description: "A simple chess game",
         display: "standalone",
         orientation: "portrait",
@@ -146,7 +146,7 @@ module.exports = function(/* ctx */) {
     // Full list of options: https://quasar.dev/quasar-cli/developing-cordova-apps/configuring-cordova
     cordova: {
       // noIosLegacyBuildFlag: true, // uncomment only if you know what you are doing
-      id: "li.monex.chess"
+      id: "com.logsem.chess"
     },
 
     // Full list of options: https://quasar.dev/quasar-cli/developing-capacitor-apps/configuring-capacitor
@@ -172,7 +172,7 @@ module.exports = function(/* ctx */) {
       builder: {
         // https://www.electron.build/configuration/configuration
 
-        appId: "mx-simple-chess"
+        appId: "ls-simple-chess"
       },
 
       // More info: https://quasar.dev/quasar-cli/developing-electron-apps/node-integration

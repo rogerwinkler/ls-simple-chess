@@ -1,4 +1,4 @@
-# MX Simple Chess (mx-simple-chess)
+# LS Simple Chess (ls-simple-chess)
 
 A simple chess game inspired by [Lauri Hartikka](https://www.freecodecamp.org/news/simple-chess-ai-step-by-step-1d55a9266977/).
 
@@ -6,7 +6,7 @@ _Version 0.1.3_
 
 ## Node Version
 
-MX Simple Chess runs on `node 12.10.0`. Thus set the appropriate node version using `nvm`. If run on newer versions the `quasar` command might not be found.
+Ls Simple Chess runs on `node 12.10.0`. Thus set the appropriate node version using `nvm`. If run on newer versions the `quasar` command might not be found.
 
 ```bash
 nvm use 12.10.0
@@ -17,7 +17,7 @@ _**Note**: Use `nvm ls` to list installed node versions!_
 ## Clone Repo
 
 ```bash
-git clone hhttps://github.com/rogerwinkler/mx-simple-chess.git
+git clone hhttps://github.com/rogerwinkler/ls-simple-chess.git
 ```
 
 ## Install the dependencies

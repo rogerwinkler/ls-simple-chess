@@ -1,11 +1,11 @@
 {
-  "name": "mx-simple-chess",
+  "name": "ls-simple-chess",
   "version": "0.0.1",
   "description": "A simple chess game",
-  "productName": "MX Simple Chess",
-  "cordovaId": "li.monex.chess",
+  "productName": "LS Simple Chess",
+  "cordovaId": "com.logsem.chess",
   "capacitorId": "",
-  "author": "rw <roger.winkler@monex.li>",
+  "author": "Roger Winkler <roger.winkler007@gmail.com>",
   "private": true,
   "scripts": {
     "dev": "quasar dev",
